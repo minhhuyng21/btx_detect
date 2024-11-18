@@ -4,7 +4,7 @@ import json
 import threading 
 import queue
 import time
-from Voice import speech 
+from embedded.Voice import speech 
 import serial
 
 r = False
